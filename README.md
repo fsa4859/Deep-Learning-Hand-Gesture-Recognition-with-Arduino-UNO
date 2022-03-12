@@ -9,7 +9,7 @@ Project's Objectives
 3. Develop solid understanding of serial and bluetooth communication between Arduino UNO and P5 Java Script files.
 
 ## Process Map
-![image](https://user-images.githubusercontent.com/69100847/158018532-d228a155-2c2b-4794-8f97-0fbcb3f15b7b.png)
+![image](https://user-images.githubusercontent.com/69100847/158018617-484696bc-bd17-4d49-b79a-db82ebe65a28.png)
 
 ## Video
 https://drive.google.com/file/d/1wrxqm1tkmLMMy8faYHDrafnDy65MAfYv/view?usp=sharing
