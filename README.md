@@ -11,5 +11,7 @@ Project's Objectives
 ## Process Map
 ![image](https://user-images.githubusercontent.com/69100847/158018617-484696bc-bd17-4d49-b79a-db82ebe65a28.png)
 
-## Video
-https://drive.google.com/file/d/1wrxqm1tkmLMMy8faYHDrafnDy65MAfYv/view?usp=sharing
+## Traditional Obstacle Avodiance Robot
+![image](https://user-images.githubusercontent.com/69100847/158018646-9f739ffd-0540-4d93-917a-1fdb75057789.png)
+
+
