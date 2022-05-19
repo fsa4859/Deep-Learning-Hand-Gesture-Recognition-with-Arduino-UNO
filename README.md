@@ -23,3 +23,4 @@ This project implements a deep learning hand gesture recognition on Arduino UNO.
 
 
 
+
