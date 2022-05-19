@@ -1,5 +1,3 @@
-![image](https://user-images.githubusercontent.com/69100847/169355024-03242de2-39c3-4327-9a9e-ff069e15673c.png)
-
 
 # Deep-Learning-Hand-Gesture-Recognition-with-Arduino-UNO
 Project implementing hand gesture deep learning model with Arduino UNO.
