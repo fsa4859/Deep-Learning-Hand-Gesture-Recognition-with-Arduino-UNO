@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/69100847/169355024-03242de2-39c3-4327-9a9e-ff069e15673c.png)
+
+
 # Deep-Learning-Hand-Gesture-Recognition-with-Arduino-UNO
 Project implementing hand gesture deep learning model with Arduino UNO.
 ## Project Overview
@@ -19,6 +22,11 @@ This project implements a deep learning hand gesture recognition on Arduino UNO.
 
 ![image](https://user-images.githubusercontent.com/69100847/169353658-b566b072-779a-48b7-8b93-698d0d1bd865.png)
 
+
+
+### Setting Bluetooth communication between Arduino and the deep learning java script file
+
+![image](https://user-images.githubusercontent.com/69100847/169354905-314f0aa8-f767-47cc-9797-8abf2a765d84.png)
 
 
 
