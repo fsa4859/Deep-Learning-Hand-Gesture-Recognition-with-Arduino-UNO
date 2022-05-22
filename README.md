@@ -3,8 +3,7 @@
 # Deep-Learning-Hand-Gesture-Recognition-with-Arduino-UNO
 Project implementing hand gesture deep learning model with Arduino UNO.
 
-![Uploading Mechatronics_project_MOV_AdobeCreativeCloudExpress.gif…]()
-
+![Mechatronics_project_MOV_AdobeCreativeCloudExpress (1)](https://user-images.githubusercontent.com/69100847/169697808-82c2571a-4934-4f0d-b46a-2d16aa2db1fc.gif)
 
 ## Project Overview
 This project implements a deep learning hand gesture recognition on Arduino UNO. The model is trained on Teachable Machine Learning from Google and is being transferred to Arduino via Bluetooth and Serial Communication.
